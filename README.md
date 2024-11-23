@@ -1,6 +1,10 @@
 # Proyecto de Animación Basada en Star Wars 🌌🚀
 
 
+https://github.com/user-attachments/assets/0697cdb7-dcf0-4161-8b6f-931a15cf2488
+
+
+
 Este proyecto fue desarrollado para la asignatura de **Informática Gráfica (IG)**. El objetivo principal es crear una animación interactiva basada en el universo de Star Wars utilizando **Three.js** y herramientas de postprocesado. 
 
 
@@ -26,12 +30,6 @@ La escena implementa:
 2. Aplicar técnicas de postprocesado para mejorar el impacto visual.
 3. Generar y renderizar un entorno dinámico que evoluciona a medida que avanza la animación.
 4. Explorar la integración de **Three.js** con interpolaciones para movimientos complejos.
-
----
-
-## 🎥 Video
-
-Aquí puedes ver una demostración de la animación creada. *(Incluir enlace al video si se sube a YouTube o cualquier plataforma)*
 
 ---
 
