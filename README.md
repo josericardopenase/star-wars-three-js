@@ -3,6 +3,7 @@
 
 Este proyecto fue desarrollado para la asignatura de **Informática Gráfica (IG)**. El objetivo principal es crear una animación interactiva basada en el universo de Star Wars utilizando **Three.js** y herramientas de postprocesado. 
 
+
 La animación incluye modelos 3D de naves icónicas como el Halcón Milenario, el Interceptor TIE, el Phantom, y la Estrella de la Muerte, junto con efectos visuales como **bloom**, movimientos complejos de cámara y un campo de asteroides generado proceduralmente.
 
 ---
